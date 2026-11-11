@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Настройки PyCharm
+.idea/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Рекорд — у каждого игрока свой
+highscore.txt
+
+# Системные файлы macOS и Windows
+.DS_Store
+Thumbs.db
